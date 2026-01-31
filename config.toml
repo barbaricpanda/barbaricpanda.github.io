@@ -19,7 +19,7 @@ smart_punctuation = true
 
 [markdown.highlighting]
 enabled = true
-theme = "base16-ocean-dark"
+theme = "catppuccin-frappe"
 
 [link_checker]
 skip_prefixes = []

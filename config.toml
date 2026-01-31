@@ -1,5 +1,5 @@
 # Zola Configuration
-base_url = "https://barbaricpanda.github.io/blog"
+base_url = "https://barbaricpanda.github.io"
 title = "Your Blog Title"
 description = "A fast, modern blog powered by Zola"
 theme = "tabi"

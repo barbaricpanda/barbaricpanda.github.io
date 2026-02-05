@@ -60,7 +60,7 @@ menu = [
     { name = "blog", url = "blog", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
     { name = "projects", url = "projects", trailing_slash = true },
-    { name = "1bout", url = "about" },
+    { name = "about", url = "about" },
 ]
 
 # Footer text

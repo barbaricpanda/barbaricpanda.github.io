@@ -1,6 +1,6 @@
 # Zola Configuration
 base_url = "https://barbaricpanda.github.io"
-title = "Your Blog Title"
+title = "Post-AIpocalypse Panda"
 description = "A fast, modern blog powered by Zola"
 theme = "tabi"
 
@@ -53,6 +53,14 @@ toc = true
 # Social links (customize these)
 social_media = [
     { name = "GitHub", url = "https://github.com/barbaricpanda" },
+]
+
+# Menu items
+menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
+    { name = "1bout", url = "about" },
 ]
 
 # Footer text
